@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pär Boman]]></title>
         <description><![CDATA[Pär Boman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://parboman.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 12:25:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 12:26:21 GMT</lastBuildDate>
+        <atom:link href="http://parboman.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>http://parboman.com/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">086a993c-d001-4b8f-a465-490ac0df5192</guid>
+            <pubDate>Tue, 24 Nov 2015 12:25:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefined79af3db3-3a94-4e30-9a3e-bfae54f87a3f/index.html</link>
+            <link>http://parboman.com/79af3db3-3a94-4e30-9a3e-bfae54f87a3f/index.html</link>
             <guid isPermaLink="false">79af3db3-3a94-4e30-9a3e-bfae54f87a3f</guid>
             <pubDate>Tue, 24 Nov 2015 12:25:35 GMT</pubDate>
         </item>
