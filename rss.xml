@@ -4,14 +4,14 @@
         <description><![CDATA[Pär Boman]]></description>
         <link>http://paer.ninja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 12:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 12:59:27 GMT</lastBuildDate>
         <atom:link href="http://paer.ninja/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Test</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9c8bb1a-9566-4dc3-91f0-1ac332701e0d.JPG">]]></description>
             <link>http://paer.ninja/79af3db3-3a94-4e30-9a3e-bfae54f87a3f/index.html</link>
             <guid isPermaLink="false">79af3db3-3a94-4e30-9a3e-bfae54f87a3f</guid>
-            <pubDate>Tue, 24 Nov 2015 12:25:35 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 12:56:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
