@@ -4,8 +4,15 @@
         <description><![CDATA[Pär Boman]]></description>
         <link>http://paer.ninja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 13:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 13:12:36 GMT</lastBuildDate>
         <atom:link href="http://paer.ninja/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The way forward]]></title>
+            <description><![CDATA[<article><h1>The way forward</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c90a500-ab49-4693-a802-e7f51574e8b1.JPG"></article>]]></description>
+            <link>http://paer.ninja/the-way-forward/index.html</link>
+            <guid isPermaLink="false">3da0b508-fb2b-4b74-a902-abefca4caaff</guid>
+            <pubDate>Tue, 24 Nov 2015 13:12:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Strawberries]]></title>
             <description><![CDATA[<article><h1>Strawberries</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a66f689-d980-4ad4-8344-8ad6d5ca73d0.JPG"></article>]]></description>
